@@ -8,7 +8,7 @@ This project is built using **Java, JDBC, and MySQL**.
 ## 🚀 Features
 - Add, update, and delete patient records  
 - Manage doctor information  
-- Book and cancel appointments  
+- Book  appointments  
 - Database integration with JDBC  
 
 ---
